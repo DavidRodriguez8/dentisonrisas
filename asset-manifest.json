@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dentisonrisas/static/css/main.cf545d5a.css",
-    "main.js": "/dentisonrisas/static/js/main.81aa2b6c.js",
+    "main.js": "/dentisonrisas/static/js/main.8088a011.js",
     "static/js/952.0e8697e4.chunk.js": "/dentisonrisas/static/js/952.0e8697e4.chunk.js",
     "static/media/fa-solid-900.ttf": "/dentisonrisas/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/dentisonrisas/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/dentisonrisas/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/dentisonrisas/index.html",
     "main.cf545d5a.css.map": "/dentisonrisas/static/css/main.cf545d5a.css.map",
-    "main.81aa2b6c.js.map": "/dentisonrisas/static/js/main.81aa2b6c.js.map",
+    "main.8088a011.js.map": "/dentisonrisas/static/js/main.8088a011.js.map",
     "952.0e8697e4.chunk.js.map": "/dentisonrisas/static/js/952.0e8697e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf545d5a.css",
-    "static/js/main.81aa2b6c.js"
+    "static/js/main.8088a011.js"
   ]
 }
